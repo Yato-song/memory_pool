@@ -1,0 +1,21 @@
+[2025-12-11 00:17:24.694931] [] test
+[2025-12-11 00:17:41.368358] [] test
+[2025-12-11 00:18:06.908860] [] test
+[2025-12-11 00:21:51.141705] [] test
+[2025-12-11 00:24:44.063307] [] test
+[2025-12-11 00:24:56.753463] [] test
+[2025-12-11 00:25:46.644186] [] test
+[2025-12-11 00:28:27.963894] [] test
+[2025-12-11 00:28:27.965212] [/Users/dxm/work/memory_pool_xs/main.cpp:15] test
+[2025-12-11 00:39:11.434981] [] test
+[2025-12-11 00:39:11.435843] [/Users/dxm/work/memory_pool_xs/main.cpp:15] test
+[2025-12-11 00:39:11.435849] [/Users/dxm/work/memory_pool_xs/main.cpp:16] warning
+[2025-12-11 00:40:20.186130] [] [info] test
+[2025-12-11 00:40:20.186652] [/Users/dxm/work/memory_pool_xs/main.cpp:15] [info] test
+[2025-12-11 00:40:20.186657] [/Users/dxm/work/memory_pool_xs/main.cpp:16] [warning] warning
+[2025-12-11 10:25:29.044661] [] [info] test
+[2025-12-11 10:25:29.047396] [/Users/dxm/work/memory_pool_xs/main.cpp:15] [info] test
+[2025-12-11 10:25:29.047401] [/Users/dxm/work/memory_pool_xs/main.cpp:16] [warning] warning
+[2025-12-11 10:28:35.165819] [] [info] test
+[2025-12-11 10:28:35.166381] [/Users/dxm/work/memory_pool_xs/main.cpp:18] [info] test
+[2025-12-11 10:28:35.166386] [/Users/dxm/work/memory_pool_xs/main.cpp:19] [warning] warning
